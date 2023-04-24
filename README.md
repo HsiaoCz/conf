@@ -37,3 +37,12 @@ chmod +x RiceInstaller
 
 ./RiceInstaller
 ```
+
+## 配置hyprland
+
+```bash
+git clone https://github.com/SolDoesTech/HyprV2.git
+```
+找到里面的set-hypr然后执行
+
+这大概率会失败，主要是网络问题
