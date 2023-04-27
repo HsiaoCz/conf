@@ -46,3 +46,11 @@ git clone https://github.com/SolDoesTech/HyprV2.git
 找到里面的set-hypr然后执行
 
 这大概率会失败，主要是网络问题
+
+试试这个hyprland
+
+```bash
+https://github.com/JaKooLit/HyprLanD.git
+ chmod +x paru-hyprland
+```
+
